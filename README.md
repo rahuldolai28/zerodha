@@ -1,6 +1,6 @@
 just checking 
 
-# Teacher 
+# Teacher
 class Teacher:Shradha Khapra
 
 # date
